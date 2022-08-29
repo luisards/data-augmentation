@@ -1,6 +1,6 @@
 # Performing Data Augmentation on an Imbalanced Portuguese Dataset
 
-The dataset OFFCOMBR-3 was made for hate speech detection models and was developed by Prates de Pelle & Moreira (2017). It contains 1033 comments in Portuguese extracted from the Brazilian news website g1.globo.com.
+The dataset OFFCOMBR-3 was developed for hate speech detection by Prates de Pelle & Moreira (2017). It contains 1033 comments in Portuguese extracted from the Brazilian news website g1.globo.com.
 
 ## Class distribution
 ![class_distribution](https://user-images.githubusercontent.com/56673771/187274983-81f9a5a6-0799-468e-b90b-2cbeac64b453.png)
