@@ -5,7 +5,7 @@ The dataset OFFCOMBR-3 was developed for hate speech detection by Prates de Pell
 ## Class distribution
 ![class_distribution](https://user-images.githubusercontent.com/56673771/187274983-81f9a5a6-0799-468e-b90b-2cbeac64b453.png)
 
-## Sample of the augmented data, done with Nlpaug
+## Sample of the augmented data, done with nppaug (https://github.com/makcedward/nlpaug)
 ![augmented_sample](https://user-images.githubusercontent.com/56673771/187275049-5c8b217c-0193-4ecc-87ca-17aaa63907f8.png)
 
 ## Class distribution after augmentation
